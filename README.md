@@ -23,3 +23,19 @@ After a successful login, users are greeted with a Welcome Page designed using J
 
 ![alt image](https://github.com/sharada-patil1508/AirFleet-Control-System/blob/53cf11097b243099f2062a0377d24fd12fd54f17/DashBoard.png)
 
+🖥️ Dashboard
+
+
+The Dashboard serves as the control center of the application, built using Java Swing for a smooth and interactive user experience. From this screen, users can access all major functionalities of the system through clearly labeled buttons or menu options:
+
+✈️ Flight Information: View and manage details about available flights, including timings, destinations, and seat availability.
+
+👤 Add Customer Details: Input and store customer data such as name, age, contact info, and travel preferences.
+
+🧳 Journey Details: Track journey information like departure and arrival cities, dates, and travel status.
+
+💳 Payment Details: Record and manage payment-related information for flight bookings.
+
+❌ Cancellation: Cancel booked flights and update all related records in the database.
+
+This centralized dashboard allows for efficient workflow and seamless navigation across all airline operations.
