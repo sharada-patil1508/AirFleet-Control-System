@@ -13,3 +13,10 @@ Reset: Clears the input fields.
 Close: Exits the application safely.
 
 This GUI ensures secure access to the system and provides a smooth start to the user workflow.
+
+![alt image](https://github.com/sharada-patil1508/AirFleet-Control-System/blob/d514dafd39d06efa8ee0fadc95bf2f0ce145a353/Welcome%20Page.png)
+
+🎉 Welcome Page
+
+
+After a successful login, users are greeted with a Welcome Page designed using Java Swing. This page provides a friendly introduction to the AirFleet-Control_System, often displaying the user's name or role along with navigation options. It acts as the central hub, guiding users to various features like flight information, user management, bookings, and more. The intuitive design ensures a smooth transition into the main application.
