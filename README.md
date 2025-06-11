@@ -83,3 +83,17 @@ The system provides a dedicated section to add customer details linked to a spec
 📞 Phone Number – Contact information for communication
 
 This form ensures accurate and complete passenger data collection, which is vital for ticketing, security, and record management.
+
+![alt image](https://github.com/sharada-patil1508/AirFleet-Control-System/blob/6209f89462dbad1e19c13db8055067b396c77b9e/Payment.png)
+
+💳 Payment Details
+
+The Payment Details module enables users to securely record and manage flight booking payments. Once the customer and flight information is confirmed, the system collects essential payment-related inputs through an interactive Java Swing form. The following fields are typically included:
+
+🧾 PNR Number – Links the payment to a specific passenger and booking
+
+💸 Amount Paid – Total fare paid by the customer
+
+💳 Payment Mode – Options such as Credit Card, Debit Card, UPI, or Net Banking
+
+📅 Payment Date – Automatically captured or selected by the user
