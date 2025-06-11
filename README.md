@@ -97,3 +97,27 @@ The Payment Details module enables users to securely record and manage flight bo
 💳 Payment Mode – Options such as Credit Card, Debit Card, UPI, or Net Banking
 
 📅 Payment Date – Automatically captured or selected by the user
+
+
+![alt image](https://github.com/sharada-patil1508/AirFleet-Control-System/blob/a3a4758d729134a64be8e63d8464966879c2a6d0/Journey%20Details.png)
+
+🧳 Journey Details
+
+
+The Journey Details module allows users to fetch travel-specific information by entering the Source and Destination cities. Once the inputs are provided and the "Show" button is clicked, the system retrieves and displays all relevant journey details from the MySQL database, including:
+
+✈️ Flight Code
+
+⏰ Departure Time
+
+🕓 Arrival Time
+
+📅 Travel Date
+
+👥 Available Seats
+
+💰 Fare
+
+🏷️ Class Type
+
+This feature helps passengers and administrators quickly identify available flight options between two locations, making the travel planning process fast and efficient.
