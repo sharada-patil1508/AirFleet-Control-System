@@ -20,3 +20,6 @@ This GUI ensures secure access to the system and provides a smooth start to the 
 
 
 After a successful login, users are greeted with a Welcome Page designed using Java Swing. This page provides a friendly introduction to the AirFleet-Control_System, often displaying the user's name or role along with navigation options. It acts as the central hub, guiding users to various features like flight information, user management, bookings, and more. The intuitive design ensures a smooth transition into the main application.
+
+![alt image](https://github.com/sharada-patil1508/AirFleet-Control-System/blob/53cf11097b243099f2062a0377d24fd12fd54f17/DashBoard.png)
+
