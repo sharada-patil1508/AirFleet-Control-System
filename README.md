@@ -39,3 +39,22 @@ The Dashboard serves as the control center of the application, built using Java 
 ❌ Cancellation: Cancel booked flights and update all related records in the database.
 
 This centralized dashboard allows for efficient workflow and seamless navigation across all airline operations.
+
+![alt image](https://github.com/sharada-patil1508/AirFleet-Control-System/blob/d86ffdbdb91cc828735a8d591ef740b9708f3ca6/Flight_info.png)
+
+🔍 Flight Information Lookup
+
+
+The system allows users to enter a Flight Code and click on the "Show" button to retrieve detailed information about the respective flight. Once submitted, the following details are displayed in the interface:
+
+🛫 Source
+
+🛬 Destination
+
+👥 Capacity
+
+🏷️ Class Name
+
+🆔 Class Code
+
+This feature helps users quickly access and verify flight details stored in the backend MySQL database, improving operational efficiency and decision-making.
