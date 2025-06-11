@@ -121,3 +121,17 @@ The Journey Details module allows users to fetch travel-specific information by 
 🏷️ Class Type
 
 This feature helps passengers and administrators quickly identify available flight options between two locations, making the travel planning process fast and efficient.
+
+
+![alt image](https://github.com/sharada-patil1508/AirFleet-Control-System/blob/5d44d2b214d72829816eec727483f8a948376f70/Cancelation.png)
+
+❌ Flight Cancellation Page
+The Cancellation Page allows users to cancel an existing flight booking by providing key identifiers. Built using Java Swing, this interface ensures a smooth and secure cancellation process. Users typically enter the following information:
+
+🎫 PNR Number – Used to identify the specific booking
+
+🧍 Passenger Name – Confirms the identity of the user
+
+✈️ Flight Code – Specifies the flight to be canceled
+
+Upon clicking the "Cancel" button, the system removes the booking from the MySQL database or marks it as canceled. A confirmation message is displayed, and seat availability is updated automatically. This feature helps maintain up-to-date flight records and offers flexibility to passengers who need to change their plans.
