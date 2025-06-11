@@ -135,3 +135,29 @@ The Cancellation Page allows users to cancel an existing flight booking by provi
 ✈️ Flight Code – Specifies the flight to be canceled
 
 Upon clicking the "Cancel" button, the system removes the booking from the MySQL database or marks it as canceled. A confirmation message is displayed, and seat availability is updated automatically. This feature helps maintain up-to-date flight records and offers flexibility to passengers who need to change their plans.
+
+
+![alt image](https://github.com/sharada-patil1508/AirFleet-Control-System/blob/34676f70afd4d7703fa7a8557bf0d3ce98ed7ffb/Backend.png)
+
+![alt image](https://github.com/sharada-patil1508/AirFleet-Control-System/blob/34676f70afd4d7703fa7a8557bf0d3ce98ed7ffb/Backend1.png)
+
+
+🗄️ Backend & Data Storage
+
+
+The backend of the AirFleet-Control_System is powered by a MySQL relational database, which securely stores all operational data entered through the Java Swing interface. Each module in the application interacts with the backend to store, retrieve, update, or delete records in real-time.
+
+📚 Key Tables in the Database:
+users – Stores login credentials (username and password)
+
+flights – Contains flight details like flight code, source, destination, class info, capacity, and timing
+
+customers – Stores customer data including name, passport number, PNR, contact, gender, and nationality
+
+journeys – Holds information related to travel routes, class types, timings, and availability
+
+payments – Logs fare paid, payment mode, and date tied to specific PNRs
+
+cancellations – Maintains records of all canceled bookings with reasons and timestamps
+
+All modules — login, flight info, journey details, customer entry, payments, and cancellations — interact with the backend to ensure accurate and consistent data handling. Proper indexing and foreign key relationships are implemented to maintain referential integrity.
