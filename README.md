@@ -58,3 +58,28 @@ The system allows users to enter a Flight Code and click on the "Show" button to
 🆔 Class Code
 
 This feature helps users quickly access and verify flight details stored in the backend MySQL database, improving operational efficiency and decision-making.
+
+![alt image](https://github.com/sharada-patil1508/AirFleet-Control-System/blob/1d68d8c382ba3e263aba57645d0eecfeb639529d/Customer_details.png)
+
+🧾 Customer Details Entry
+
+
+The system provides a dedicated section to add customer details linked to a specific flight. Users can input all essential passenger information, which is then stored securely in the MySQL database. The following fields are included in the form:
+
+✈️ Flight Code – Links the customer to a specific flight
+
+🛂 Passport Number – Unique ID for international identification
+
+🎫 PNR Number – Passenger Name Record for tracking the booking
+
+🏠 Address – Residential address of the customer
+
+🌍 Nationality – Country of citizenship
+
+👤 Name – Full name of the passenger
+
+🚻 Gender – Male/Female/Other
+
+📞 Phone Number – Contact information for communication
+
+This form ensures accurate and complete passenger data collection, which is vital for ticketing, security, and record management.
